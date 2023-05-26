@@ -103,6 +103,7 @@ header .navbar a:hover {
 header .follow a {
     font-size: 2.5rem;
     color: #fff;
+    /* background-color: pink; */
     margin: 0 .7rem;
 }
 
